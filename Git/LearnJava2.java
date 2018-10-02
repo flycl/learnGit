@@ -1,6 +1,6 @@
 //静态方法
 public class Anmin{
-	
+	//git diff --HEAD Name
 	
 }
 
