@@ -1,5 +1,5 @@
 //静态方法
-private class Anmin{
+public class Anmin{
 	
 	
 }
@@ -12,6 +12,7 @@ public class LearnJava2{
 	//变更 2
 	public static void main(String[] args) {
 		System.out.println("系统输出");
+		Anmin anmin = anmin();
 	}
 }
 
