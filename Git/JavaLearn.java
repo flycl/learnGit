@@ -1,6 +1,6 @@
 public class LearnJava{
 
-	//主方法 入口函数
+	//主方法 入口函数	
 	public class test{
 
 	}
@@ -11,7 +11,8 @@ public class LearnJava{
 	}
 
 	添加一个说明
-	//添加一个说明
+	//添加一个说明	
 
+	//第一次add
 
 }
